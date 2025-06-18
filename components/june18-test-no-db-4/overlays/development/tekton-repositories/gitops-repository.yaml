@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: june18-test-no-db-4-gitops-repository
+spec:
+  url: https://github.com/jdubrick-ai/june18-test-no-db-4-gitops
